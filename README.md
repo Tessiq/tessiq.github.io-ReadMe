@@ -15,14 +15,10 @@ Main Goal of Discover Arizona is to make Discovering Arizona simple and easy
 
 
 ## Screenshots
+![nav_snip 1 home_age png ](https://user-images.githubusercontent.com/93623064/161854766-6d021aca-c2ba-414e-b617-643c6d84735f.png)
+![homepagePNG](https://user-images.githubusercontent.com/93623064/161855209-8689daa9-4a60-485d-9d19-4990408e1323.PNG)
 
-![App Screenshot](https://ibb.co/sK2R4Z4)
-    https://ibb.co/sK2R4Z4
-click  to view image and 
 
-![App Screenshot](https://ibb.co/sK2R4Z4)
-    https://ibb.co/sK2R4Z4
-click  to view image and  view the css on why nav-links works on mobile devices 
 ## The Javascript/Json
 In the Javascript it builds the cards to display the Json information and changes the format of the website when it changes width.
 ![Javascript](https://ibb.co/dWhfWQh)
