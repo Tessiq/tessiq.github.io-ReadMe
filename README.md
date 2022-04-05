@@ -22,12 +22,10 @@ Main Goal of Discover Arizona is to make Discovering Arizona simple and easy
 
 ## The Javascript/Json
 In the Javascript it builds the cards to display the Json information and changes the format of the website when it changes width.
+
 ![Screenshot 2022-04-05 115919](https://user-images.githubusercontent.com/93623064/161855537-e3ac59a6-8c8d-49e6-94ca-3095db5c8e6a.png)
 ![Screenshot 2022-04-05 120251](https://user-images.githubusercontent.com/93623064/161855552-34e3ca4a-89e3-491c-8a7d-659d4d13540e.png)
 
-
-    https://ibb.co/XbcR8mt
-click  to view image and
 ## For the Navigation Bar 
 
 #### function if and else statement 
